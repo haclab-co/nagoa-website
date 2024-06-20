@@ -42,7 +42,7 @@ body {
       margin-bottom: 14px; } }
 
 .page-description {
-  max-width: 465px;
+  max-width: 100%;
   font-size: 18px;
   margin-bottom: 50px; }
   @media (max-width: 767px) {
